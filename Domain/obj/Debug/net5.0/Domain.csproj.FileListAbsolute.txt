@@ -1,0 +1,12 @@
+C:\ASPCOREPROJECTS\ToDoListApp\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\ASPCOREPROJECTS\ToDoListApp\Domain\bin\Debug\net5.0\Domain.dll
+C:\ASPCOREPROJECTS\ToDoListApp\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\ASPCOREPROJECTS\ToDoListApp\Domain\bin\Debug\net5.0\Domain.pdb
+C:\ASPCOREPROJECTS\ToDoListApp\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASPCOREPROJECTS\ToDoListApp\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\ASPCOREPROJECTS\ToDoListApp\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\ASPCOREPROJECTS\ToDoListApp\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\ASPCOREPROJECTS\ToDoListApp\Domain\obj\Debug\net5.0\Domain.dll
+C:\ASPCOREPROJECTS\ToDoListApp\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\ASPCOREPROJECTS\ToDoListApp\Domain\obj\Debug\net5.0\Domain.pdb
+C:\ASPCOREPROJECTS\ToDoListApp\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache

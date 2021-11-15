@@ -1,0 +1,15 @@
+C:\ASPCOREPROJECTS\ToDoListApp\DataAccess.EFCore\bin\Debug\net5.0\DataAccess.EFCore.deps.json
+C:\ASPCOREPROJECTS\ToDoListApp\DataAccess.EFCore\bin\Debug\net5.0\DataAccess.EFCore.dll
+C:\ASPCOREPROJECTS\ToDoListApp\DataAccess.EFCore\bin\Debug\net5.0\ref\DataAccess.EFCore.dll
+C:\ASPCOREPROJECTS\ToDoListApp\DataAccess.EFCore\bin\Debug\net5.0\DataAccess.EFCore.pdb
+C:\ASPCOREPROJECTS\ToDoListApp\DataAccess.EFCore\bin\Debug\net5.0\Domain.dll
+C:\ASPCOREPROJECTS\ToDoListApp\DataAccess.EFCore\bin\Debug\net5.0\Domain.pdb
+C:\ASPCOREPROJECTS\ToDoListApp\DataAccess.EFCore\obj\Debug\net5.0\DataAccess.EFCore.csproj.AssemblyReference.cache
+C:\ASPCOREPROJECTS\ToDoListApp\DataAccess.EFCore\obj\Debug\net5.0\DataAccess.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASPCOREPROJECTS\ToDoListApp\DataAccess.EFCore\obj\Debug\net5.0\DataAccess.EFCore.AssemblyInfoInputs.cache
+C:\ASPCOREPROJECTS\ToDoListApp\DataAccess.EFCore\obj\Debug\net5.0\DataAccess.EFCore.AssemblyInfo.cs
+C:\ASPCOREPROJECTS\ToDoListApp\DataAccess.EFCore\obj\Debug\net5.0\DataAccess.EFCore.csproj.CoreCompileInputs.cache
+C:\ASPCOREPROJECTS\ToDoListApp\DataAccess.EFCore\obj\Debug\net5.0\DataAccess.EFCore.csproj.CopyComplete
+C:\ASPCOREPROJECTS\ToDoListApp\DataAccess.EFCore\obj\Debug\net5.0\DataAccess.EFCore.dll
+C:\ASPCOREPROJECTS\ToDoListApp\DataAccess.EFCore\obj\Debug\net5.0\ref\DataAccess.EFCore.dll
+C:\ASPCOREPROJECTS\ToDoListApp\DataAccess.EFCore\obj\Debug\net5.0\DataAccess.EFCore.pdb
