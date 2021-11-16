@@ -1,0 +1,20 @@
+﻿@model Domain.Entities.ToDo
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div class="row display-4 offset-3 text-info ">Create a ToDo List</div>
+<hr />
+<form class="mt-5" method="post" action="Create">
+    <div class="row form-group offset-3 align-items-center">
+        <div class="col-2 text-right"><label asp-for="Content">Content</label></div>
+        <div class="col-6">
+            <input asp-for="Content" class="form-control" />
+        </div>
+    </div>
+    <div class="form-group offset-5 mt-2">
+        <button type="submit" class="btn btn-primary">Add Item</button>
+        <a class="btn btn-success" asp-controller="Todo" asp-action="Index">Back</a>
+    </div>
+</form>

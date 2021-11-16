@@ -391,3 +391,8 @@ C:\ASPCOREPROJECTS\ToDoListApp\WebUI\obj\Debug\net5.0\WebUI.dll
 C:\ASPCOREPROJECTS\ToDoListApp\WebUI\obj\Debug\net5.0\ref\WebUI.dll
 C:\ASPCOREPROJECTS\ToDoListApp\WebUI\obj\Debug\net5.0\WebUI.pdb
 C:\ASPCOREPROJECTS\ToDoListApp\WebUI\obj\Debug\net5.0\WebUI.genruntimeconfig.cache
+C:\ASPCOREPROJECTS\ToDoListApp\WebUI\obj\Debug\net5.0\Razor\Views\Todo\Index.cshtml.g.cs
+C:\ASPCOREPROJECTS\ToDoListApp\WebUI\obj\Debug\net5.0\Razor\Views\Todo\Create.cshtml.g.cs
+C:\ASPCOREPROJECTS\ToDoListApp\WebUI\obj\Debug\net5.0\Razor\Views\Todo\Edit.cshtml.g.cs
+C:\ASPCOREPROJECTS\ToDoListApp\WebUI\bin\Debug\net5.0\cloudscribe.Pagination.Models.dll
+C:\ASPCOREPROJECTS\ToDoListApp\WebUI\bin\Debug\net5.0\cloudscribe.Web.Pagination.dll

@@ -26,7 +26,7 @@ namespace DataAccess.EFCore.Repository
 
         public ToDo GetToDo(int Id)
         {
-            return (ToDo)_context.ToDos.Where(m => m.Id == Id);
+            return _context.ToDos.Find(Id);
 
         }
 

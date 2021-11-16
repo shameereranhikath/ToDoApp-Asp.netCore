@@ -1,4 +1,6 @@
 using DataAccess.EFCore.AppDbContext;
+using DataAccess.EFCore.Repository;
+using Domain.Interfaces;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -22,6 +24,8 @@ namespace WebUI
         {
             services.AddControllersWithViews();
             services.AddDbContext<TodoDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaulConnectionString"), b => b.MigrationsAssembly("DataAccess.EFCore")));
+            services.AddTransient<IToDo, ToDoRepository>();
+            services.AddCloudscribePagination();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -45,8 +49,9 @@ namespace WebUI
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
-            });
+                    pattern: "{controller=Todo}/{action=Index}");
+        //pattern: "{controller=Todo}/{action=Index}/{id?}");
+        });
         }
     }
 }
